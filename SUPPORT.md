@@ -1,6 +1,6 @@
 # Support
 
-Need help? You can reach us via email or visit our websites.
+Need help? You can reach me via email or visit my websites.
 
 ## Email Support
 

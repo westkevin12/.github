@@ -1,11 +1,14 @@
-# Default Community Health Files
+# Default Community Health
 
-This repository contains default community health files for @westkevin12 repositories.
-GitHub automatically applies these files to any repository in the user's account that does not have its own version of the file.
+This repository contains the default configuration files for **@westkevin12**'s repositories.
+GitHub automatically applies these files to any repository in the account that does not have its own version.
 
 ## Maintainer
 
-**West Kevin** (Second Life Gaming)
+- **West** ([@westkevin12](https://github.com/westkevin12))
+- **Organization:** Second Life Gaming ([@SecondLifeGaming](https://github.com/SecondLifeGaming))
 
-- Email: west@digitalserverhost.com
-- Website: [digitalserverhost.com](https://digitalserverhost.com)
+### Contact
+
+- **Email:** [west@digitalserverhost.com](mailto:west@digitalserverhost.com)
+- **Website:** [digitalserverhost.com](https://digitalserverhost.com)

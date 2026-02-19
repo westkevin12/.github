@@ -14,4 +14,4 @@ Our goal is to build high-quality software. We value technical excellence, const
 
 If you witness or experience behavior that violates these standards, Ignore it and write more code.
 If it is illegal, contact the authorities.
-If it is a security issue, contact [EMAIL_ADDRESS].
+If it is a security issue, contact support@digitalserverhost.com.
