@@ -111,11 +111,11 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 | **Top Languages Used** | TypeScript (43%), Kotlin (22%), Python (19%), MDX (7%), JavaScript (3%) |
 
 ### ⚡ Recent Activity
+- [mc-data-bridge](https://github.com/westkevin12/mc-data-bridge) - Feb 21, 2026
 - [repo-mcp](https://github.com/westkevin12/repo-mcp) - Feb 21, 2026
 - [PlayerVaultsX](https://github.com/westkevin12/PlayerVaultsX) - Feb 21, 2026
 - [roulette-overlay](https://github.com/westkevin12/roulette-overlay) - Feb 21, 2026
 - [ECC-shop-scraper](https://github.com/westkevin12/ECC-shop-scraper) - Feb 20, 2026
-- [lighthouse-agent](https://github.com/westkevin12/lighthouse-agent) - Feb 19, 2026
 
 <!-- END_STATS -->
 </div>
