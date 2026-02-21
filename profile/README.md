@@ -103,20 +103,19 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 <div align="center">
 <!-- START_STATS -->
 
-| 🏆 GitHub Stats         |                                                                         |
-| :---------------------- | :---------------------------------------------------------------------- |
-| **Total Public Repos**  | 23                                                                      |
-| **Total Private Repos** | 46                                                                      |
-| **Total Stars Earned**  | 12 🌟                                                                   |
-| **Top Languages Used**  | TypeScript (43%), Kotlin (22%), Python (19%), MDX (7%), JavaScript (3%) |
+| 🏆 GitHub Stats | |
+| :--- | :--- |
+| **Total Public Repos** | 23 |
+| **Total Private Repos** | 46 |
+| **Total Stars Earned** | 12 🌟 |
+| **Top Languages Used** | TypeScript (43%), Kotlin (22%), Python (19%), MDX (7%), JavaScript (3%) |
 
 ### ⚡ Recent Activity
-
+- [PlayerVaultsX](https://github.com/westkevin12/PlayerVaultsX) - Feb 21, 2026
+- [roulette-overlay](https://github.com/westkevin12/roulette-overlay) - Feb 21, 2026
 - [ECC-shop-scraper](https://github.com/westkevin12/ECC-shop-scraper) - Feb 20, 2026
 - [lighthouse-agent](https://github.com/westkevin12/lighthouse-agent) - Feb 19, 2026
 - [music-manager-agent](https://github.com/westkevin12/music-manager-agent) - Feb 19, 2026
-- [XvG-AutoKeybind](https://github.com/westkevin12/XvG-AutoKeybind) - Feb 19, 2026
-- [roulette-overlay](https://github.com/westkevin12/roulette-overlay) - Feb 13, 2026
 
 <!-- END_STATS -->
 </div>
