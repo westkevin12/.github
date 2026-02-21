@@ -18,6 +18,7 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 ## 🛠️ Specialized Tooling & Projects
 
 - **[GitHub Auditor MCP](https://github.com/westkevin12/repo-mcp):** A professional-grade Model Context Protocol server for automated git auditing, secret scrubbing, and semantic history management.
+- **[Second Life Gaming D&D Agent](https://discord.com/discovery/applications/1459398948455452903/store):** An autonomous Discord server manager and AI Dungeon Master. Built in Python with database persistence to dynamically narrate, manage rules, and progress game mechanics via chat RP and VTT. ([Join the Alpha Server](https://discord.gg/UDs4cDJpPM))
 - **[AI Dev Starter Guide](https://github.com/westkevin12/ai-dev-starter-guide):** An automated workstation bootstrap for AI development (Docker, Ollama, Antigravity IDE).
 - **Automated Compliance:** Expertise in pharmaceutical and government database management, specializing in high-volume product inventory and analytics.
 
@@ -72,8 +73,10 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 ---
 
@@ -89,9 +92,22 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 ## 📊 Performance & Insights
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=westkevin12&show_icons=true&theme=radical&count_private=true" alt="Kevin's Stats" />
-<!-- Note: The top-langs card is intentionally compact and hides CSS/HTML to highlight core languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=westkevin12&layout=compact&theme=dark&hide=css,html" alt="Top Languages" />
+<!-- START_STATS -->
+
+| 🏆 GitHub Stats | |
+| :--- | :--- |
+| **Total Public Repos** | 23 |
+| **Total Stars Earned** | 7 🌟 |
+| **Top Languages Used** | TypeScript (46%), Kotlin (30%), Python (10%), MDX (9%), Java (3%) |
+
+### ⚡ Recent Activity
+- [ECC-shop-scraper](https://github.com/westkevin12/ECC-shop-scraper) - Feb 20, 2026
+- [lighthouse-agent](https://github.com/westkevin12/lighthouse-agent) - Feb 19, 2026
+- [music-manager-agent](https://github.com/westkevin12/music-manager-agent) - Feb 19, 2026
+- [XvG-AutoKeybind](https://github.com/westkevin12/XvG-AutoKeybind) - Feb 19, 2026
+- [roulette-overlay](https://github.com/westkevin12/roulette-overlay) - Feb 13, 2026
+
+<!-- END_STATS -->
 </div>
 
 ---

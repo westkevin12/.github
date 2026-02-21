@@ -1,0 +1,56 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Weekly on Sunday midnight
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch GitHub Data
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -n "$GH_PAT" ]; then
+            echo "Using GH_PAT to fetch all repos (including private)..."
+            curl -s -H "Authorization: token $GH_PAT" \
+              "https://api.github.com/user/repos?type=owner&per_page=100" \
+              -o repos.json
+          else
+            echo "Using GITHUB_TOKEN to fetch public repos..."
+            curl -s -H "Authorization: token $GITHUB_TOKEN" \
+              "https://api.github.com/users/westkevin12/repos?per_page=100&type=owner" \
+              -o repos.json
+          fi
+
+      - name: Update README with repo stats
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 scripts/generate_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/README.md
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "chore: update profile README with latest stats"
+            git push
+          )
