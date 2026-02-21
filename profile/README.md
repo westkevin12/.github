@@ -24,6 +24,15 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 
 ---
 
+## 📦 Open Source Software Releases
+
+- **[XvG-AutoKeybind](https://github.com/westkevin12/XvG-AutoKeybind):** A lightweight Python utility designed to bridge the gap between keyboard inputs and precise mouse actions. This tool allows users to map any key combination to specific screen coordinates, featuring multiple customizable profiles and advanced action types like Click & Return, Drag & Return, and Double Click.
+- **[Roulette Overlay](https://github.com/westkevin12/roulette-overlay):** A lightweight, "Always on Top" betting tracker and strategy tool for Roulette. Features automated stake calculation, streak tracking, and profit analysis across multiple currencies (Fiat, Crypto, and GP). Built with Python and CustomTkinter for a modern overlay experience.
+- **[MC Data Bridge](https://github.com/westkevin12/mc-data-bridge):** Securely synchronize player data (inventory, health, experience, etc.) across multiple servers within a BungeeCord or Velocity network.
+- **[PlayerVaultsX (Fork)](https://github.com/westkevin12/PlayerVaultsX):** A high-performance PlayerVaultsX fork for Minecraft 1.21+. Features a decoupled Storage Strategy (MySQL/Mongo), Redis-backed cross-server sync, automated S3 cloud backups, and a modern Adventure UI with integrated vault search and selectors.
+
+---
+
 ## 💻 Technical Arsenal
 
 ### 🚀 Core Powerhouse
@@ -94,14 +103,15 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 <div align="center">
 <!-- START_STATS -->
 
-| 🏆 GitHub Stats | |
-| :--- | :--- |
-| **Total Public Repos** | 23 |
-| **Total Private Repos** | 46 |
-| **Total Stars Earned** | 12 🌟 |
-| **Top Languages Used** | TypeScript (43%), Kotlin (22%), Python (19%), MDX (7%), JavaScript (3%) |
+| 🏆 GitHub Stats         |                                                                         |
+| :---------------------- | :---------------------------------------------------------------------- |
+| **Total Public Repos**  | 23                                                                      |
+| **Total Private Repos** | 46                                                                      |
+| **Total Stars Earned**  | 12 🌟                                                                   |
+| **Top Languages Used**  | TypeScript (43%), Kotlin (22%), Python (19%), MDX (7%), JavaScript (3%) |
 
 ### ⚡ Recent Activity
+
 - [ECC-shop-scraper](https://github.com/westkevin12/ECC-shop-scraper) - Feb 20, 2026
 - [lighthouse-agent](https://github.com/westkevin12/lighthouse-agent) - Feb 19, 2026
 - [music-manager-agent](https://github.com/westkevin12/music-manager-agent) - Feb 19, 2026
