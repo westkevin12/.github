@@ -97,8 +97,9 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 | 🏆 GitHub Stats | |
 | :--- | :--- |
 | **Total Public Repos** | 23 |
-| **Total Stars Earned** | 7 🌟 |
-| **Top Languages Used** | TypeScript (46%), Kotlin (30%), Python (10%), MDX (9%), Java (3%) |
+| **Total Private Repos** | 46 |
+| **Total Stars Earned** | 12 🌟 |
+| **Top Languages Used** | TypeScript (43%), Kotlin (22%), Python (19%), MDX (7%), JavaScript (3%) |
 
 ### ⚡ Recent Activity
 - [ECC-shop-scraper](https://github.com/westkevin12/ECC-shop-scraper) - Feb 20, 2026
