@@ -106,16 +106,16 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 | 🏆 GitHub Stats | |
 | :--- | :--- |
 | **Total Public Repos** | 24 |
-| **Total Private Repos** | 45 |
+| **Total Private Repos** | 47 |
 | **Total Stars Earned** | 15 🌟 |
-| **Top Languages Used** | TypeScript (43%), Kotlin (22%), Python (19%), MDX (7%), JavaScript (3%) |
+| **Top Languages Used** | TypeScript (42%), Kotlin (22%), Python (19%), MDX (7%), JavaScript (3%) |
 
 ### ⚡ Recent Activity
+- [PlayerVaultsX](https://github.com/westkevin12/PlayerVaultsX) - Feb 25, 2026
 - [mc-data-bridge](https://github.com/westkevin12/mc-data-bridge) - Feb 24, 2026
 - [colorpicker](https://github.com/westkevin12/colorpicker) - Feb 22, 2026
 - [QR-Code](https://github.com/westkevin12/QR-Code) - Feb 22, 2026
 - [webflyx](https://github.com/westkevin12/webflyx) - Feb 22, 2026
-- [bookbot](https://github.com/westkevin12/bookbot) - Feb 22, 2026
 
 <!-- END_STATS -->
 </div>
