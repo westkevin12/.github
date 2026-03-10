@@ -106,13 +106,13 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 | 🏆 GitHub Stats | |
 | :--- | :--- |
 | **Total Public Repos** | 25 |
-| **Total Private Repos** | 49 |
+| **Total Private Repos** | 50 |
 | **Total Stars Earned** | 15 🌟 |
-| **Top Languages Used** | Rust (34%), TypeScript (20%), Assembly (11%), Kotlin (10%), Python (9%) |
+| **Top Languages Used** | TypeScript (42%), Kotlin (22%), Python (19%), MDX (7%), JavaScript (3%) |
 
 ### ⚡ Recent Activity
+- [AI-Dev-Starter-Guide](https://github.com/westkevin12/AI-Dev-Starter-Guide) - Mar 10, 2026
 - [tfhe-rs](https://github.com/westkevin12/tfhe-rs) - Mar 03, 2026
-- [AI-Dev-Starter-Guide](https://github.com/westkevin12/AI-Dev-Starter-Guide) - Mar 02, 2026
 - [ECC-shop-scraper](https://github.com/westkevin12/ECC-shop-scraper) - Mar 02, 2026
 - [PlayerVaultsX](https://github.com/westkevin12/PlayerVaultsX) - Feb 25, 2026
 - [mc-data-bridge](https://github.com/westkevin12/mc-data-bridge) - Feb 24, 2026
