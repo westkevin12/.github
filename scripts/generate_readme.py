@@ -40,11 +40,12 @@ total_stars = sum(r.get('stargazers_count', 0) for r in source_repos)
 # Aggregate language stats by bytes directly from the API
 language_bytes = defaultdict(int)
 IGNORE_LANGUAGES = ['Jupyter Notebook', 'HTML', 'CSS', 'SCSS']
+IGNORE_REPOS = ['tfhe-rs']
 
 print("Fetching detailed language stats for repositories...")
 for repo in source_repos:
     lang_url = repo.get('languages_url')
-    if not lang_url:
+    if not lang_url or repo.get('name') in IGNORE_REPOS:
         continue
         
     try:
