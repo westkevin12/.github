@@ -106,9 +106,9 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 | 🏆 GitHub Stats | |
 | :--- | :--- |
 | **Total Public Repos** | 25 |
-| **Total Private Repos** | 50 |
+| **Total Private Repos** | 51 |
 | **Total Stars Earned** | 15 🌟 |
-| **Top Languages Used** | TypeScript (42%), Kotlin (22%), Python (19%), MDX (7%), JavaScript (3%) |
+| **Top Languages Used** | TypeScript (42%), Kotlin (21%), Python (19%), MDX (7%), JavaScript (3%) |
 
 ### ⚡ Recent Activity
 - [AI-Dev-Starter-Guide](https://github.com/westkevin12/AI-Dev-Starter-Guide) - Mar 10, 2026
