@@ -111,11 +111,11 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 | **Top Languages Used** | TypeScript (42%), Kotlin (21%), Python (19%), MDX (7%), JavaScript (3%) |
 
 ### ⚡ Recent Activity
+- [music-manager-agent](https://github.com/westkevin12/music-manager-agent) - Mar 22, 2026
 - [AI-Dev-Starter-Guide](https://github.com/westkevin12/AI-Dev-Starter-Guide) - Mar 10, 2026
 - [tfhe-rs](https://github.com/westkevin12/tfhe-rs) - Mar 03, 2026
 - [ECC-shop-scraper](https://github.com/westkevin12/ECC-shop-scraper) - Mar 02, 2026
 - [PlayerVaultsX](https://github.com/westkevin12/PlayerVaultsX) - Feb 25, 2026
-- [mc-data-bridge](https://github.com/westkevin12/mc-data-bridge) - Feb 24, 2026
 
 <!-- END_STATS -->
 </div>
