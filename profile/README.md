@@ -106,7 +106,7 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 | 🏆 GitHub Stats | |
 | :--- | :--- |
 | **Total Public Repos** | 28 |
-| **Total Private Repos** | 53 |
+| **Total Private Repos** | 54 |
 | **Total Stars Earned** | 17 🌟 |
 | **Top Languages Used** | TypeScript (42%), Kotlin (21%), Python (19%), MDX (7%), Java (3%) |
 
