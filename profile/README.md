@@ -108,7 +108,7 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 | **Total Public Repos** | 28 |
 | **Total Private Repos** | 54 |
 | **Total Stars Earned** | 17 🌟 |
-| **Top Languages Used** | TypeScript (42%), Kotlin (21%), Python (19%), MDX (7%), Java (3%) |
+| **Top Languages Used** | TypeScript (43%), Kotlin (21%), Python (19%), MDX (7%), Java (3%) |
 
 ### ⚡ Recent Activity
 - [mc-data-bridge](https://github.com/westkevin12/mc-data-bridge) - Apr 29, 2026
