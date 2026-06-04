@@ -127,20 +127,39 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 
 <div align="center">
 
-<a href="https://g.dev/lVVlWEST" target="_blank">
-  <img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="110px" alt="Joined the Google Developer Program" title="Joined the Google Developer Program" />
-</a>
-<a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus?u=lVVlWEST" target="_blank">
-  <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" width="110px" alt="Google Developer Program premium tier (Innovators Plus)" title="Google Developer Program premium tier (Innovators Plus)" />
-</a>
-<a href="https://developers.google.com/profile/badges/nvidia-developer?u=lVVlWEST" target="_blank">
-  <img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" width="110px" alt="Google Cloud & NVIDIA community member" title="Google Cloud & NVIDIA community member" />
-</a>
-<a href="https://developers.google.com/profile/badges/community/gear?u=lVVlWEST" target="_blank">
-  <img src="https://developers.google.com/static/profile/badges/community/gear/badge.svg" width="110px" alt="Gemini Enterprise Agent Ready (GEAR)" title="Gemini Enterprise Agent Ready (GEAR)" />
-</a>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 10px; width: 150px; vertical-align: top;">
+      <a href="https://g.dev/lVVlWEST" target="_blank">
+        <img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="110px" alt="Joined the Google Developer Program" />
+      </a>
+      <br />
+      <sub><b>Joined the Google Developer Program</b></sub>
+    </td>
+    <td align="center" style="border: none; padding: 10px; width: 150px; vertical-align: top;">
+      <a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus?u=lVVlWEST" target="_blank">
+        <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" width="110px" alt="Google Developer Program premium tier" />
+      </a>
+      <br />
+      <sub><b>Google Developer Program Premium Tier</b></sub>
+    </td>
+    <td align="center" style="border: none; padding: 10px; width: 150px; vertical-align: top;">
+      <a href="https://developers.google.com/profile/badges/nvidia-developer?u=lVVlWEST" target="_blank">
+        <img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" width="110px" alt="Google Cloud & NVIDIA community member" />
+      </a>
+      <br />
+      <sub><b>Google Cloud & NVIDIA Community Member</b></sub>
+    </td>
+    <td align="center" style="border: none; padding: 10px; width: 150px; vertical-align: top;">
+      <a href="https://developers.google.com/profile/badges/community/gear?u=lVVlWEST" target="_blank">
+        <img src="https://developers.google.com/static/profile/badges/community/gear/badge.svg" width="110px" alt="Gemini Enterprise Agent Ready" />
+      </a>
+      <br />
+      <sub><b>Gemini Enterprise Agent Ready</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br>
 <br>
 
 [![Google Developer Profile](https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/lVVlWEST)
