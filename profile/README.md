@@ -26,6 +26,7 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 
 ## 📦 Open Source Software Releases
 
+- **[Project ORCHID](https://github.com/DigitalServerHost/ORCHID):** A high-performance, zero-dependency, Go-native decentralized compute engine and execution node.
 - **[XvG-AutoKeybind](https://github.com/westkevin12/XvG-AutoKeybind):** A lightweight Python utility designed to bridge the gap between keyboard inputs and precise mouse actions. This tool allows users to map any key combination to specific screen coordinates, featuring multiple customizable profiles and advanced action types like Click & Return, Drag & Return, and Double Click.
 - **[Roulette Overlay](https://github.com/westkevin12/roulette-overlay):** A lightweight, "Always on Top" betting tracker and strategy tool for Roulette. Features automated stake calculation, streak tracking, and profit analysis across multiple currencies (Fiat, Crypto, and GP). Built with Python and CustomTkinter for a modern overlay experience.
 - **[MC Data Bridge](https://github.com/westkevin12/mc-data-bridge):** Securely synchronize player data (inventory, health, experience, etc.) across multiple servers within a BungeeCord or Velocity network.
@@ -118,6 +119,32 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 - [alt1-electron](https://github.com/westkevin12/alt1-electron) - Apr 09, 2026
 
 <!-- END_STATS -->
+</div>
+
+---
+
+## 🏆 Google Developer Badges
+
+<div align="center">
+
+<a href="https://g.dev/lVVlWEST" target="_blank">
+  <img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="110px" alt="Joined the Google Developer Program" title="Joined the Google Developer Program" />
+</a>
+<a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus?u=lVVlWEST" target="_blank">
+  <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" width="110px" alt="Google Developer Program premium tier (Innovators Plus)" title="Google Developer Program premium tier (Innovators Plus)" />
+</a>
+<a href="https://developers.google.com/profile/badges/nvidia-developer?u=lVVlWEST" target="_blank">
+  <img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" width="110px" alt="Google Cloud & NVIDIA community member" title="Google Cloud & NVIDIA community member" />
+</a>
+<a href="https://developers.google.com/profile/badges/community/gear?u=lVVlWEST" target="_blank">
+  <img src="https://developers.google.com/static/profile/badges/community/gear/badge.svg" width="110px" alt="Gemini Enterprise Agent Ready (GEAR)" title="Gemini Enterprise Agent Ready (GEAR)" />
+</a>
+
+<br>
+<br>
+
+[![Google Developer Profile](https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/lVVlWEST)
+
 </div>
 
 ---
