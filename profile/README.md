@@ -155,11 +155,11 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
     </td>
     <td align="center" valign="top" width="25%">
       <div align="center">
-        <a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus?u=lVVlWEST" target="_blank">
-          <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" width="110px" alt="Google Developer Program premium tier" />
+        <a href="https://developers.google.com/profile/badges/nvidia-developer?u=lVVlWEST" target="_blank">
+          <img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" width="110px" alt="Google Cloud & NVIDIA Community Member" />
         </a>
       </div>
-      <sub><b>Google Developer Program Premium Tier</b></sub>
+      <sub><b>Google Cloud & NVIDIA Community Member</b></sub>
     </td>
   </tr>
 </table>
