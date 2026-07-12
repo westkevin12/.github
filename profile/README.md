@@ -109,7 +109,7 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 | **Total Public Repos** | 27 |
 | **Total Private Repos** | 56 |
 | **Total Stars Earned** | 19 🌟 |
-| **Top Languages Used** | TypeScript (42%), Kotlin (21%), Python (19%), MDX (6%), Java (3%) |
+| **Top Languages Used** | TypeScript (43%), Kotlin (21%), Python (19%), MDX (6%), Java (3%) |
 
 ### ⚡ Recent Activity
 - [XvG-AutoKeybind](https://github.com/westkevin12/XvG-AutoKeybind) - Jul 04, 2026
