@@ -108,15 +108,15 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 | :--- | :--- |
 | **Total Public Repos** | 27 |
 | **Total Private Repos** | 56 |
-| **Total Stars Earned** | 19 🌟 |
+| **Total Stars Earned** | 20 🌟 |
 | **Top Languages Used** | TypeScript (43%), Kotlin (21%), Python (19%), MDX (6%), Java (3%) |
 
 ### ⚡ Recent Activity
+- [repo-mcp](https://github.com/westkevin12/repo-mcp) - Jul 14, 2026
 - [XvG-AutoKeybind](https://github.com/westkevin12/XvG-AutoKeybind) - Jul 04, 2026
 - [mc-data-bridge](https://github.com/westkevin12/mc-data-bridge) - Jun 26, 2026
 - [RAMNET-whitepaper](https://github.com/westkevin12/RAMNET-whitepaper) - Jun 06, 2026
 - [ECC-shop-scraper](https://github.com/westkevin12/ECC-shop-scraper) - May 26, 2026
-- [competitions-kaggle-measuring-agi](https://github.com/westkevin12/competitions-kaggle-measuring-agi) - Apr 17, 2026
 
 <!-- END_STATS -->
 </div>
