@@ -107,9 +107,9 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 | 🏆 GitHub Stats | |
 | :--- | :--- |
 | **Total Public Repos** | 27 |
-| **Total Private Repos** | 56 |
+| **Total Private Repos** | 57 |
 | **Total Stars Earned** | 20 🌟 |
-| **Top Languages Used** | TypeScript (43%), Kotlin (21%), Python (19%), MDX (6%), Java (3%) |
+| **Top Languages Used** | TypeScript (43%), Kotlin (20%), Python (19%), MDX (6%), Java (4%) |
 
 ### ⚡ Recent Activity
 - [repo-mcp](https://github.com/westkevin12/repo-mcp) - Jul 14, 2026
