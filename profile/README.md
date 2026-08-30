@@ -108,15 +108,15 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 | :--- | :--- |
 | **Total Public Repos** | 27 |
 | **Total Private Repos** | 56 |
-| **Total Stars Earned** | 21 🌟 |
-| **Top Languages Used** | TypeScript (43%), Kotlin (21%), Python (19%), MDX (6%), Java (3%) |
+| **Total Stars Earned** | 23 🌟 |
+| **Top Languages Used** | TypeScript (43%), Kotlin (20%), Python (19%), MDX (6%), Java (3%) |
 
 ### ⚡ Recent Activity
-- [mc-data-bridge](https://github.com/westkevin12/mc-data-bridge) - Aug 07, 2026
+- [music-manager-agent](https://github.com/westkevin12/music-manager-agent) - Aug 29, 2026
+- [mc-data-bridge](https://github.com/westkevin12/mc-data-bridge) - Aug 29, 2026
 - [QR-Code](https://github.com/westkevin12/QR-Code) - Jul 26, 2026
 - [repo-mcp](https://github.com/westkevin12/repo-mcp) - Jul 14, 2026
 - [XvG-AutoKeybind](https://github.com/westkevin12/XvG-AutoKeybind) - Jul 04, 2026
-- [RAMNET-whitepaper](https://github.com/westkevin12/RAMNET-whitepaper) - Jun 06, 2026
 
 <!-- END_STATS -->
 </div>
