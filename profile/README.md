@@ -109,7 +109,7 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 | **Total Public Repos** | 27 |
 | **Total Private Repos** | 56 |
 | **Total Stars Earned** | 24 🌟 |
-| **Top Languages Used** | TypeScript (42%), Kotlin (20%), Python (19%), MDX (6%), Java (4%) |
+| **Top Languages Used** | TypeScript (43%), Kotlin (20%), Python (19%), MDX (6%), Java (4%) |
 
 ### ⚡ Recent Activity
 - [QR-Code](https://github.com/westkevin12/QR-Code) - Sep 24, 2026
