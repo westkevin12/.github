@@ -109,7 +109,7 @@ Infrastructure-focused developer specializing in **Automated Workflows**, **SaaS
 | **Total Public Repos** | 27 |
 | **Total Private Repos** | 56 |
 | **Total Stars Earned** | 26 🌟 |
-| **Top Languages Used** | TypeScript (42%), Kotlin (20%), Python (19%), MDX (6%), Java (4%) |
+| **Top Languages Used** | TypeScript (42%), Kotlin (20%), Python (19%), MDX (6%), JavaScript (4%) |
 
 ### ⚡ Recent Activity
 - [music-manager-agent](https://github.com/westkevin12/music-manager-agent) - Oct 04, 2026
